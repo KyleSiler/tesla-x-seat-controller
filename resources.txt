@@ -1,0 +1,3 @@
+https://docs.arduino.cc/resources/pinouts/A000005-full-pinout.pdf
+
+https://docs.arduino.cc/learn/microcontrollers/analog-output/
